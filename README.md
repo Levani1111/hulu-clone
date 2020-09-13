@@ -1,7 +1,7 @@
 # Hulu-clone-API
 
 ### Tech
-* REACT
+* REACTJS
 * MATERIAL UI
 * FLEXBOX
 * TMDB - API calls to a movie service
