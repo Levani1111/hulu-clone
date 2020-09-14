@@ -1,4 +1,6 @@
-# Hulu-clone-API
+# Hulu Clone 
+
+This is my Hulu clone using the Hulu API. It allows you to pick Hulu movies and shows by genre. 
 
 ### Tech
 * REACTJS
